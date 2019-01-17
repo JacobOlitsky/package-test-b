@@ -1,2 +1,5 @@
 const message = 'World';
-export { message as default };
+
+const altMessage = 'Earth';
+
+export { message as default, altMessage };
